@@ -1,16 +1,16 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: mdu # Your GitHub organization or username, where this repository lives
+repo: mdu-github-glb-monitor-01 # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Misiones
+    url: https://misiones.gob.ar
+  - name: Salud
+    url: https://salud.misiones.gob.ar
+  - name: RPI
+    url: https://rpi.misiones.gob.ar
+  - name: Marandu
+    url: https://marandu.com.ar
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
