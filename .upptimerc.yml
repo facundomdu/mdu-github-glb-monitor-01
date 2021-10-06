@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Monitor externo MDU
   introTitle: "**Monitor externo MDU**"
-  introMessage: Esta es una página de estado de muestra que usa datos en tiempo real de nuestros sistemas
+ # introMessage: Esta es una página de estado de muestra que usa datos en tiempo real de nuestros sistemas
   navbar:
     - title: Status
       href: /
