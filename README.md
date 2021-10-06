@@ -23,7 +23,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://demo.upptime.js.org)
+[**Visit our status website →**](https://facundomdu.github.io/mdu-github-glb-monitor-01)
 
 ## 📄 License
 
