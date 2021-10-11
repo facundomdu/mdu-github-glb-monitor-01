@@ -20,6 +20,7 @@ status-website:
   baseUrl: /mdu-github-glb-monitor-01
   favicon: https://misiones.gob.ar/favicon.ico
   logoUrl: https://marandu.com.ar/wp-content/themes/marandu/images/marandu-logo.gif
+  themeUrl: https://github.com/facundomdu/mdu-github-glb-monitor-01/tree/master/assets/misiones-theme.css
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Monitor externo MDU
   introTitle: "Monitor externo MDU"

@@ -1,0 +1,15 @@
+--2021-10-11 15:27:51--  https://misiones.gob.ar/favicon.ico
+Resolviendo misiones.gob.ar (misiones.gob.ar)... 138.117.79.145
+Conectando con misiones.gob.ar (misiones.gob.ar)[138.117.79.145]:443... conectado.
+Petición HTTP enviada, esperando respuesta... 302 Found
+Ubicación: https://misiones.gob.ar/wp-content/uploads/2021/04/cropped-favicon-32x32.jpg [siguiente]
+--2021-10-11 15:27:52--  https://misiones.gob.ar/wp-content/uploads/2021/04/cropped-favicon-32x32.jpg
+Reutilizando la conexión con misiones.gob.ar:443.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 557 [image/jpeg]
+Guardando como: “favicon.ico”
+
+     0K                                                       100% 58,6M=0s
+
+2021-10-11 15:27:52 (58,6 MB/s) - “favicon.ico” guardado [557/557]
+
