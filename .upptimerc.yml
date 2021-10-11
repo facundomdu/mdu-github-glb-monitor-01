@@ -3,7 +3,8 @@ owner: facundomdu # Your GitHub organization or username, where this repository 
 repo: mdu-github-glb-monitor-01 # The name of this repository
 
 sites:
-
+#ORDENAR POR ABECEDARIO NOMBRE Y DOMINIO 
+# VER OPCION PARA APRUPAR (institucionales, endpoints, apis, etc)
 
   - name: Misiones
     url: https://misiones.gob.ar
