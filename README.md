@@ -1,6 +1,8 @@
-# [📈 Estado en vivo](https://facundomdu.github.io/mdu-github-glb-monitor-01/): <!--live status--> **🟩 All systems operational**
+# [📈 Estado en vivo](https://facundomdu.github.io/mdu-github-glb-monitor-01/): <!--live status--> **🟩 Todos los sistemas operativos**
 
-This repository contains the open-source uptime monitor and status page for [Marandu Comunicaciones SE](marandu.com.ar), [Silicon Misiones](siliconmisiones.gob.ar) powered by [Upptime](https://github.com/upptime/upptime).
+
+
+Este repositorio contiene el monitor externo de actividad y estado de las paginas para los servicios de la Provincia de Misiones. Equipos de desarrollo: [Marandu Comunicaciones SE](marandu.com.ar), [Silicon Misiones](siliconmisiones.gob.ar) con tecnologia open source.
 
 
 <!--start: status pages-->
