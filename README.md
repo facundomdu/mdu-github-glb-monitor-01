@@ -1,4 +1,4 @@
-# [📈 Estado en vivo](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
+# [📈 Estado en vivo](https://facundomdu.github.io/mdu-github-glb-monitor-01/): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Marandu Comunicaciones SE](marandu.com.ar), [Silicon Misiones](siliconmisiones.gob.ar) powered by [Upptime](https://github.com/upptime/upptime).
 
