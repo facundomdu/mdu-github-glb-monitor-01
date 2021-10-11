@@ -10,11 +10,11 @@
     "uptimeWeek": "99.30%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.30%",
-    "time": 3851,
-    "timeDay": 3022,
-    "timeWeek": 3851,
-    "timeMonth": 3851,
-    "timeYear": 3851,
+    "time": 3782,
+    "timeDay": 2903,
+    "timeWeek": 3782,
+    "timeMonth": 3782,
+    "timeYear": 3782,
     "dailyMinutesDown": {
       "2021-10-09": 19,
       "2021-10-08": 40
@@ -31,11 +31,11 @@
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.31%",
     "uptimeYear": "99.31%",
-    "time": 2608,
-    "timeDay": 2082,
-    "timeWeek": 2608,
-    "timeMonth": 2608,
-    "timeYear": 2608,
+    "time": 2574,
+    "timeDay": 2040,
+    "timeWeek": 2574,
+    "timeMonth": 2574,
+    "timeYear": 2574,
     "dailyMinutesDown": {
       "2021-10-09": 19,
       "2021-10-08": 40
@@ -52,11 +52,11 @@
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.32%",
-    "time": 2544,
-    "timeDay": 1433,
-    "timeWeek": 2544,
-    "timeMonth": 2544,
-    "timeYear": 2544,
+    "time": 2495,
+    "timeDay": 1423,
+    "timeWeek": 2495,
+    "timeMonth": 2495,
+    "timeYear": 2495,
     "dailyMinutesDown": {
       "2021-10-09": 19,
       "2021-10-08": 40
@@ -73,18 +73,18 @@
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.54%",
-    "time": 2230,
-    "timeDay": 1855,
-    "timeWeek": 2230,
-    "timeMonth": 2230,
-    "timeYear": 2230,
+    "time": 2206,
+    "timeDay": 1838,
+    "timeWeek": 2206,
+    "timeMonth": 2206,
+    "timeYear": 2206,
     "dailyMinutesDown": {
       "2021-10-08": 39
     }
   },
   {
     "name": "ahora.misiones.gob.ar",
-    "url": "httpS://ahora.misiones.gob.ar/",
+    "url": "https://ahora.misiones.gob.ar/",
     "icon": "https://favicons.githubusercontent.com/ahora.misiones.gob.ar",
     "slug": "ahora-misiones-gob-ar",
     "status": "up",
@@ -102,7 +102,7 @@
   },
   {
     "name": "expomujer.misiones.gob.ar",
-    "url": "httpS://expomujer.misiones.gob.ar/",
+    "url": "https://expomujer.misiones.gob.ar/",
     "icon": "https://favicons.githubusercontent.com/expomujer.misiones.gob.ar",
     "slug": "expomujer-misiones-gob-ar",
     "status": "up",
@@ -120,7 +120,7 @@
   },
   {
     "name": "fiscaliadeestado.misiones.gob.ar",
-    "url": "httpS://fiscaliadeestado.misiones.gob.ar/",
+    "url": "https://fiscaliadeestado.misiones.gob.ar/",
     "icon": "https://favicons.githubusercontent.com/fiscaliadeestado.misiones.gob.ar",
     "slug": "fiscaliadeestado-misiones-gob-ar",
     "status": "up",
@@ -138,7 +138,7 @@
   },
   {
     "name": "guacurari.misiones.gob.ar",
-    "url": "httpS://guacurari.misiones.gob.ar",
+    "url": "https://guacurari.misiones.gob.ar",
     "icon": "https://favicons.githubusercontent.com/guacurari.misiones.gob.ar",
     "slug": "guacurari-misiones-gob-ar",
     "status": "up",
@@ -156,7 +156,7 @@
   },
   {
     "name": "iaavim.misiones.gob.ar",
-    "url": "httpS://iaavim.misiones.gob.ar/",
+    "url": "https://iaavim.misiones.gob.ar/",
     "icon": "https://favicons.githubusercontent.com/iaavim.misiones.gob.ar",
     "slug": "iaavim-misiones-gob-ar",
     "status": "up",
@@ -174,7 +174,7 @@
   },
   {
     "name": "museocambas.marandu.com.ar",
-    "url": "httpS://museocambas.marandu.com.ar/",
+    "url": "https://museocambas.marandu.com.ar/",
     "icon": "https://favicons.githubusercontent.com/museocambas.marandu.com.ar",
     "slug": "museocambas-marandu-com-ar",
     "status": "up",
@@ -189,12 +189,12 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-11": 11
+      "2021-10-11": 25
     }
   },
   {
     "name": "trabajo.misiones.gob.ar",
-    "url": "httpS://trabajo.misiones.gob.ar/",
+    "url": "https://trabajo.misiones.gob.ar/",
     "icon": "https://favicons.githubusercontent.com/trabajo.misiones.gob.ar",
     "slug": "trabajo-misiones-gob-ar",
     "status": "up",
@@ -212,7 +212,7 @@
   },
   {
     "name": "www.cocinamisionera.com.ar",
-    "url": "httpS://www.cocinamisionera.com.ar/",
+    "url": "https://www.cocinamisionera.com.ar/",
     "icon": "https://favicons.githubusercontent.com/www.cocinamisionera.com.ar",
     "slug": "www-cocinamisionera-com-ar",
     "status": "up",
@@ -227,12 +227,12 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-11": 10
+      "2021-10-11": 25
     }
   },
   {
     "name": "www.misiones.gob.ar",
-    "url": "httpS://www.misiones.gob.ar/",
+    "url": "https://www.misiones.gob.ar/",
     "icon": "https://favicons.githubusercontent.com/www.misiones.gob.ar",
     "slug": "www-misiones-gob-ar",
     "status": "up",
@@ -250,7 +250,7 @@
   },
   {
     "name": "acmci.misiones.gob.ar",
-    "url": "httpsS://acmci.misiones.gob.ar/",
+    "url": "https://acmci.misiones.gob.ar/",
     "icon": "https://favicons.githubusercontent.com/acmci.misiones.gob.ar",
     "slug": "acmci-misiones-gob-ar",
     "status": "up",
@@ -265,12 +265,12 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-11": 10
+      "2021-10-11": 24
     }
   },
   {
     "name": "agrifam.misiones.gob.ar",
-    "url": "httpsS://agrifam.misiones.gob.ar/",
+    "url": "https://agrifam.misiones.gob.ar/",
     "icon": "https://favicons.githubusercontent.com/agrifam.misiones.gob.ar",
     "slug": "agrifam-misiones-gob-ar",
     "status": "up",
@@ -285,12 +285,12 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-11": 10
+      "2021-10-11": 24
     }
   },
   {
     "name": "agro.misiones.gob.ar",
-    "url": "httpsS://agro.misiones.gob.ar/",
+    "url": "https://agro.misiones.gob.ar/",
     "icon": "https://favicons.githubusercontent.com/agro.misiones.gob.ar",
     "slug": "agro-misiones-gob-ar",
     "status": "up",
@@ -305,12 +305,12 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-11": 10
+      "2021-10-11": 24
     }
   },
   {
     "name": "biofabrica.misiones.gob.ar",
-    "url": "httpsS://biofabrica.misiones.gob.ar/",
+    "url": "https://biofabrica.misiones.gob.ar/",
     "icon": "https://favicons.githubusercontent.com/biofabrica.misiones.gob.ar",
     "slug": "biofabrica-misiones-gob-ar",
     "status": "up",
@@ -325,12 +325,12 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-11": 10
+      "2021-10-11": 24
     }
   },
   {
     "name": "cea.misiones.gob.ar",
-    "url": "httpsS://cea.misiones.gob.ar/",
+    "url": "https://cea.misiones.gob.ar/",
     "icon": "https://favicons.githubusercontent.com/cea.misiones.gob.ar",
     "slug": "cea-misiones-gob-ar",
     "status": "up",
@@ -345,12 +345,12 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-11": 10
+      "2021-10-11": 24
     }
   },
   {
     "name": "ceambiental.misiones.gob.ar",
-    "url": "httpsS://ceambiental.misiones.gob.ar/",
+    "url": "https://ceambiental.misiones.gob.ar/",
     "icon": "https://favicons.githubusercontent.com/ceambiental.misiones.gob.ar",
     "slug": "ceambiental-misiones-gob-ar",
     "status": "up",
@@ -365,12 +365,12 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-11": 10
+      "2021-10-11": 24
     }
   },
   {
     "name": "comunicacion.misiones.gob.ar",
-    "url": "httpsS://comunicacion.misiones.gob.ar/",
+    "url": "https://comunicacion.misiones.gob.ar/",
     "icon": "https://favicons.githubusercontent.com/comunicacion.misiones.gob.ar",
     "slug": "comunicacion-misiones-gob-ar",
     "status": "up",
@@ -385,12 +385,12 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-11": 10
+      "2021-10-11": 24
     }
   },
   {
     "name": "congresojovenesfira-cila.com.ar",
-    "url": "httpsS://congresojovenesfira-cila.com.ar/",
+    "url": "https://congresojovenesfira-cila.com.ar/",
     "icon": "https://favicons.githubusercontent.com/congresojovenesfira-cila.com.ar",
     "slug": "congresojovenesfira-cila-com-ar",
     "status": "up",
@@ -405,7 +405,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-11": 10
+      "2021-10-11": 25
     }
   },
   {
@@ -587,7 +587,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-11": 9
+      "2021-10-11": 24
     }
   }
 ]
