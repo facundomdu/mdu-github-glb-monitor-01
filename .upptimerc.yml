@@ -3,6 +3,8 @@ owner: facundomdu # Your GitHub organization or username, where this repository 
 repo: mdu-github-glb-monitor-01 # The name of this repository
 
 sites:
+
+
   - name: Misiones
     url: https://misiones.gob.ar
     icon: https://misiones.gob.ar/favicon.ico
@@ -13,6 +15,66 @@ sites:
   - name: Marandu
     url: https://marandu.com.ar
 
+#INSTITUCIONALES 
+  - name: ahora.misiones.gob.ar
+    url: httpS://ahora.misiones.gob.ar/
+  - name: expomujer.misiones.gob.ar
+    url: httpS://expomujer.misiones.gob.ar/
+  - name: fiscaliadeestado.misiones.gob.ar
+    url: httpS://fiscaliadeestado.misiones.gob.ar/
+  - name: guacurari.misiones.gob.ar
+    url: httpS://guacurari.misiones.gob.ar
+  - name: iaavim.misiones.gob.ar
+    url: httpS://iaavim.misiones.gob.ar/
+  - name: museocambas.marandu.com.ar
+    url: httpS://museocambas.marandu.com.ar/
+  - name: trabajo.misiones.gob.ar
+    url: httpS://trabajo.misiones.gob.ar/
+  - name: www.cocinamisionera.com.ar
+    url: httpS://www.cocinamisionera.com.ar/
+  - name: www.misiones.gob.ar
+    url: httpS://www.misiones.gob.ar/
+  - name: acmci.misiones.gob.ar
+    url: httpsS://acmci.misiones.gob.ar/
+  - name: agrifam.misiones.gob.ar
+    url: httpsS://agrifam.misiones.gob.ar/
+  - name: agro.misiones.gob.ar
+    url: httpsS://agro.misiones.gob.ar/
+  - name: biofabrica.misiones.gob.ar
+    url: httpsS://biofabrica.misiones.gob.ar/
+  - name: cea.misiones.gob.ar
+    url: httpsS://cea.misiones.gob.ar/
+  - name: ceambiental.misiones.gob.ar
+    url: httpsS://ceambiental.misiones.gob.ar/
+  - name: comunicacion.misiones.gob.ar
+    url: httpsS://comunicacion.misiones.gob.ar/
+  - name: congresojovenesfira-cila.com.ar
+    url: httpsS://congresojovenesfira-cila.com.ar/
+  - name: defensoriadennya.misiones.gob.ar
+    url: https://defensoriadennya.misiones.gob.ar/
+  - name: derechoshumanos.misiones.gob.ar
+    url: https://derechoshumanos.misiones.gob.ar/
+  - name: desarrollosocial.misiones.gob.ar
+    url: https://desarrollosocial.misiones.gob.ar/
+  - name: ecologia.misiones.gob.ar
+    url: https://ecologia.misiones.gob.ar/
+  - name: edu.misiones.gob.ar
+    url: https://edu.misiones.gob.ar/
+  - name: fiestadelinmigrante.com.ar
+    url: https://fiestadelinmigrante.com.ar/
+  - name: fondocredito.misiones.gob.ar
+    url: https://fondocredito.misiones.gob.ar/
+  - name: gobierno.misiones.gob.ar
+    url: https://gobierno.misiones.gob.ar/
+  - name: htc.misiones.gob.ar
+    url: https://htc.misiones.gob.ar/
+  - name: ide.marandu.com.ar
+    url: https://ide.marandu.com.ar/
+
+
+
+
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -21,7 +83,7 @@ status-website:
   favicon: https://misiones.gob.ar/favicon.ico
   logoUrl: https://marandu.com.ar/wp-content/themes/marandu/images/marandu-logo.gif
   #themeUrl: https://github.com/facundomdu/mdu-github-glb-monitor-01/blob/master/assets/misiones-theme.css
-  themeUrl: https://facundomdu.github.io/mdu-github-glb-monitor-01/global.css
+#  themeUrl: https://facundomdu.github.io/mdu-github-glb-monitor-01/global.css
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Monitor externo MDU
   introTitle: "Monitor externo MDU"
