@@ -5,6 +5,7 @@ repo: mdu-github-glb-monitor-01 # The name of this repository
 sites:
   - name: Misiones
     url: https://misiones.gob.ar
+    icon: https://misiones.gob.ar/favicon.ico
   - name: Salud
     url: https://salud.misiones.gob.ar
   - name: RPI
@@ -17,6 +18,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /mdu-github-glb-monitor-01
+  favicon: https://misiones.gob.ar/favicon.ico
   logoUrl: https://marandu.com.ar/wp-content/themes/marandu/images/marandu-logo.gif
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Monitor externo MDU
