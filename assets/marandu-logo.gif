@@ -1,0 +1,15 @@
+--2021-10-11 16:55:40--  https://marandu.com.ar/wp-content/themes/marandu/images/marandu-logo.gif
+Resolviendo marandu.com.ar (marandu.com.ar)... 138.117.79.145
+Conectando con marandu.com.ar (marandu.com.ar)[138.117.79.145]:443... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 243944 (238K) [image/gif]
+Guardando como: “marandu-logo.gif.1”
+
+     0K .......... .......... .......... .......... .......... 20%  145K 1s
+    50K .......... .......... .......... .......... .......... 41%  184K 1s
+   100K .......... .......... .......... .......... .......... 62%  125K 1s
+   150K .......... .......... .......... .......... .......... 83%  230K 0s
+   200K .......... .......... .......... ........             100%  124K=1,5s
+
+2021-10-11 16:55:42 (154 KB/s) - “marandu-logo.gif.1” guardado [243944/243944]
+
