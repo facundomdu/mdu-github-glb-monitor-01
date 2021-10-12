@@ -5,62 +5,18 @@
     "icon": "https://misiones.gob.ar/favicon.ico",
     "slug": "misiones",
     "status": "up",
-    "uptime": "98.68%",
+    "uptime": "98.69%",
     "uptimeDay": "95.39%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "98.68%",
-    "uptimeYear": "98.68%",
-    "time": 4005,
-    "timeDay": 3887,
-    "timeWeek": 4005,
-    "timeMonth": 4005,
-    "timeYear": 4005,
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "98.69%",
+    "time": 3934,
+    "timeDay": 3704,
+    "timeWeek": 3934,
+    "timeMonth": 3934,
+    "timeYear": 3934,
     "dailyMinutesDown": {
       "2021-10-12": 66,
-      "2021-10-09": 19,
-      "2021-10-08": 40
-    }
-  },
-  {
-    "name": "Salud",
-    "url": "https://salud.misiones.gob.ar",
-    "icon": "https://favicons.githubusercontent.com/salud.misiones.gob.ar",
-    "slug": "salud",
-    "status": "up",
-    "uptime": "98.70%",
-    "uptimeDay": "95.46%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "98.70%",
-    "time": 2509,
-    "timeDay": 2054,
-    "timeWeek": 2509,
-    "timeMonth": 2509,
-    "timeYear": 2509,
-    "dailyMinutesDown": {
-      "2021-10-12": 66,
-      "2021-10-09": 19,
-      "2021-10-08": 40
-    }
-  },
-  {
-    "name": "RPI",
-    "url": "https://rpi.misiones.gob.ar",
-    "icon": "https://favicons.githubusercontent.com/rpi.misiones.gob.ar",
-    "slug": "rpi",
-    "status": "up",
-    "uptime": "98.72%",
-    "uptimeDay": "95.53%",
-    "uptimeWeek": "98.72%",
-    "uptimeMonth": "98.72%",
-    "uptimeYear": "98.72%",
-    "time": 2370,
-    "timeDay": 1394,
-    "timeWeek": 2370,
-    "timeMonth": 2370,
-    "timeYear": 2370,
-    "dailyMinutesDown": {
-      "2021-10-12": 64,
       "2021-10-09": 19,
       "2021-10-08": 40
     }
@@ -76,11 +32,11 @@
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.41%",
-    "time": 2179,
-    "timeDay": 1810,
-    "timeWeek": 2179,
-    "timeMonth": 2179,
-    "timeYear": 2179,
+    "time": 2161,
+    "timeDay": 1803,
+    "timeWeek": 2161,
+    "timeMonth": 2161,
+    "timeYear": 2161,
     "dailyMinutesDown": {
       "2021-10-12": 18,
       "2021-10-08": 39
@@ -197,7 +153,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-12": 918,
+      "2021-10-12": 931,
       "2021-10-11": 177
     }
   },
@@ -238,7 +194,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-12": 918,
+      "2021-10-12": 931,
       "2021-10-11": 177
     }
   },
@@ -422,7 +378,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-12": 918,
+      "2021-10-12": 931,
       "2021-10-11": 176
     }
   },
@@ -609,9 +565,63 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-12": 918,
+      "2021-10-12": 931,
       "2021-10-11": 175
     }
+  },
+  {
+    "name": "rpi.misiones.gob.ar",
+    "url": "https://rpi.misiones.gob.ar",
+    "icon": "https://favicons.githubusercontent.com/rpi.misiones.gob.ar",
+    "slug": "rpi-misiones-gob-ar",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "salud.misiones.gob.ar",
+    "url": "https://salud.misiones.gob.ar",
+    "icon": "https://favicons.githubusercontent.com/salud.misiones.gob.ar",
+    "slug": "salud-misiones-gob-ar",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "sys.rpi.misiones.gob.ar",
+    "url": "https://sys.rpi.misiones.gob.ar",
+    "icon": "https://favicons.githubusercontent.com/sys.rpi.misiones.gob.ar",
+    "slug": "sys-rpi-misiones-gob-ar",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   },
   {
     "name": "cio911.misiones.gob.ar",
