@@ -197,7 +197,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-12": 687,
+      "2021-10-12": 697,
       "2021-10-11": 177
     }
   },
@@ -238,7 +238,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-12": 687,
+      "2021-10-12": 697,
       "2021-10-11": 177
     }
   },
@@ -422,7 +422,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-12": 687,
+      "2021-10-12": 697,
       "2021-10-11": 176
     }
   },
@@ -542,17 +542,19 @@
     "icon": "https://favicons.githubusercontent.com/fondocredito.misiones.gob.ar",
     "slug": "fondocredito-misiones-gob-ar",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "2.79%",
+    "uptimeDay": "2.79%",
+    "uptimeWeek": "2.79%",
+    "uptimeMonth": "2.79%",
+    "uptimeYear": "2.79%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-12": 1
+    }
   },
   {
     "name": "gobierno.misiones.gob.ar",
@@ -607,7 +609,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-12": 687,
+      "2021-10-12": 697,
       "2021-10-11": 175
     }
   }
