@@ -10,11 +10,11 @@
     "uptimeWeek": "98.68%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "98.68%",
-    "time": 4024,
-    "timeDay": 3934,
-    "timeWeek": 4024,
-    "timeMonth": 4024,
-    "timeYear": 4024,
+    "time": 4005,
+    "timeDay": 3887,
+    "timeWeek": 4005,
+    "timeMonth": 4005,
+    "timeYear": 4005,
     "dailyMinutesDown": {
       "2021-10-12": 66,
       "2021-10-09": 19,
@@ -32,11 +32,11 @@
     "uptimeWeek": "98.70%",
     "uptimeMonth": "98.70%",
     "uptimeYear": "98.70%",
-    "time": 2518,
-    "timeDay": 2031,
-    "timeWeek": 2518,
-    "timeMonth": 2518,
-    "timeYear": 2518,
+    "time": 2509,
+    "timeDay": 2054,
+    "timeWeek": 2509,
+    "timeMonth": 2509,
+    "timeYear": 2509,
     "dailyMinutesDown": {
       "2021-10-12": 66,
       "2021-10-09": 19,
@@ -54,11 +54,11 @@
     "uptimeWeek": "98.72%",
     "uptimeMonth": "98.72%",
     "uptimeYear": "98.72%",
-    "time": 2411,
-    "timeDay": 1405,
-    "timeWeek": 2411,
-    "timeMonth": 2411,
-    "timeYear": 2411,
+    "time": 2370,
+    "timeDay": 1394,
+    "timeWeek": 2370,
+    "timeMonth": 2370,
+    "timeYear": 2370,
     "dailyMinutesDown": {
       "2021-10-12": 64,
       "2021-10-09": 19,
@@ -76,11 +76,11 @@
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.41%",
-    "time": 2194,
-    "timeDay": 1808,
-    "timeWeek": 2194,
-    "timeMonth": 2194,
-    "timeYear": 2194,
+    "time": 2179,
+    "timeDay": 1810,
+    "timeWeek": 2179,
+    "timeMonth": 2179,
+    "timeYear": 2179,
     "dailyMinutesDown": {
       "2021-10-12": 18,
       "2021-10-08": 39
@@ -197,7 +197,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-12": 903,
+      "2021-10-12": 918,
       "2021-10-11": 177
     }
   },
@@ -238,7 +238,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-12": 903,
+      "2021-10-12": 918,
       "2021-10-11": 177
     }
   },
@@ -422,7 +422,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-12": 903,
+      "2021-10-12": 918,
       "2021-10-11": 176
     }
   },
@@ -609,8 +609,26 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-12": 903,
+      "2021-10-12": 918,
       "2021-10-11": 175
     }
+  },
+  {
+    "name": "cio911.misiones.gob.ar",
+    "url": "http://cio911.misiones.gob.ar/",
+    "icon": "https://favicons.githubusercontent.com/cio911.misiones.gob.ar",
+    "slug": "cio911-misiones-gob-ar",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
