@@ -9,10 +9,6 @@ sites:
   - name: Misiones
     url: https://misiones.gob.ar
     icon: https://misiones.gob.ar/favicon.ico
-  - name: Salud
-    url: https://salud.misiones.gob.ar
-  - name: RPI
-    url: https://rpi.misiones.gob.ar
   - name: Marandu
     url: https://marandu.com.ar
 
@@ -71,11 +67,20 @@ sites:
     url: https://htc.misiones.gob.ar/
   - name: ide.marandu.com.ar
     url: https://ide.marandu.com.ar/
+
+  - name: rpi.misiones.gob.ar
+    url: https://rpi.misiones.gob.ar
+  - name: salud.misiones.gob.ar
+    url: https://salud.misiones.gob.ar
+
+
+#CHEKEO DE SISTEMAS FRONTEND
+  - name: sys.rpi.misiones.gob.ar
+    url: https://sys.rpi.misiones.gob.ar
   - name: cio911.misiones.gob.ar
     url: http://cio911.misiones.gob.ar/
 
-
-
+#CHEKEO DE SISTEMAS BACKEND
 
 
 
