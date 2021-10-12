@@ -71,6 +71,9 @@ sites:
     url: https://htc.misiones.gob.ar/
   - name: ide.marandu.com.ar
     url: https://ide.marandu.com.ar/
+  - name: cio911.misiones.gob.ar
+    url: http://cio911.misiones.gob.ar/
+
 
 
 
