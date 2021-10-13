@@ -5,11 +5,11 @@
     "icon": "https://misiones.gob.ar/favicon.ico",
     "slug": "misiones",
     "status": "up",
-    "uptime": "98.81%",
+    "uptime": "98.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.75%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "98.81%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "98.82%",
     "time": 3934,
     "timeDay": 2666,
     "timeWeek": 4090,
@@ -27,11 +27,11 @@
     "icon": "https://favicons.githubusercontent.com/marandu.com.ar",
     "slug": "marandu",
     "status": "up",
-    "uptime": "99.46%",
+    "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
     "time": 2161,
     "timeDay": 1786,
     "timeWeek": 2244,
@@ -153,7 +153,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-13": 530,
+      "2021-10-13": 540,
       "2021-10-12": 1440,
       "2021-10-11": 177
     }
@@ -195,7 +195,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-13": 530,
+      "2021-10-13": 540,
       "2021-10-12": 1440,
       "2021-10-11": 177
     }
@@ -380,7 +380,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-13": 530,
+      "2021-10-13": 540,
       "2021-10-12": 1440,
       "2021-10-11": 176
     }
@@ -568,7 +568,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-13": 530,
+      "2021-10-13": 540,
       "2021-10-12": 1440,
       "2021-10-11": 175
     }
@@ -644,7 +644,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-13": 80
+      "2021-10-13": 90
     }
   }
 ]
