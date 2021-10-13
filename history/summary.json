@@ -5,13 +5,13 @@
     "icon": "https://misiones.gob.ar/favicon.ico",
     "slug": "misiones",
     "status": "up",
-    "uptime": "98.79%",
-    "uptimeDay": "96.86%",
+    "uptime": "98.80%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.75%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "98.79%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "98.80%",
     "time": 3934,
-    "timeDay": 2482,
+    "timeDay": 2666,
     "timeWeek": 4090,
     "timeMonth": 3934,
     "timeYear": 3934,
@@ -153,7 +153,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-13": 357,
+      "2021-10-13": 406,
       "2021-10-12": 1440,
       "2021-10-11": 177
     }
@@ -195,7 +195,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-13": 357,
+      "2021-10-13": 406,
       "2021-10-12": 1440,
       "2021-10-11": 177
     }
@@ -207,7 +207,7 @@
     "slug": "www-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -380,7 +380,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-13": 357,
+      "2021-10-13": 406,
       "2021-10-12": 1440,
       "2021-10-11": 176
     }
@@ -392,7 +392,7 @@
     "slug": "defensoriadennya-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -568,7 +568,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-13": 357,
+      "2021-10-13": 406,
       "2021-10-12": 1440,
       "2021-10-11": 175
     }
