@@ -6,12 +6,12 @@
     "slug": "misiones",
     "status": "up",
     "uptime": "98.79%",
-    "uptimeDay": "96.21%",
+    "uptimeDay": "96.73%",
     "uptimeWeek": "98.75%",
     "uptimeMonth": "98.79%",
     "uptimeYear": "98.79%",
     "time": 3934,
-    "timeDay": 4918,
+    "timeDay": 2482,
     "timeWeek": 4090,
     "timeMonth": 3934,
     "timeYear": 3934,
@@ -27,13 +27,13 @@
     "icon": "https://favicons.githubusercontent.com/marandu.com.ar",
     "slug": "marandu",
     "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "99.47%",
+    "uptime": "99.46%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.45%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
     "time": 2161,
-    "timeDay": 1832,
+    "timeDay": 1786,
     "timeWeek": 2244,
     "timeMonth": 2161,
     "timeYear": 2161,
@@ -87,7 +87,7 @@
     "slug": "fiscaliadeestado-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -153,7 +153,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-13": 338,
+      "2021-10-13": 347,
       "2021-10-12": 1440,
       "2021-10-11": 177
     }
@@ -165,7 +165,7 @@
     "slug": "trabajo-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -195,7 +195,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-13": 338,
+      "2021-10-13": 347,
       "2021-10-12": 1440,
       "2021-10-11": 177
     }
@@ -227,7 +227,7 @@
     "slug": "acmci-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -248,7 +248,7 @@
     "slug": "agrifam-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -269,7 +269,7 @@
     "slug": "agro-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -380,7 +380,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-13": 338,
+      "2021-10-13": 347,
       "2021-10-12": 1440,
       "2021-10-11": 176
     }
@@ -568,7 +568,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-13": 338,
+      "2021-10-13": 347,
       "2021-10-12": 1440,
       "2021-10-11": 175
     }
