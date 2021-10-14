@@ -13,7 +13,7 @@ sites:
     url: https://marandu.com.ar
 
 #INSTITUCIONALES 
-  - name: acmci.misiones.gob.ar
+  - name: acmcimisionesgobar
     url: https://acmci.misiones.gob.ar/
   - name: agrifam.misiones.gob.ar
     url: https://agrifam.misiones.gob.ar/
@@ -69,14 +69,14 @@ sites:
     url: https://rpi.misiones.gob.ar
   - name: salud.misiones.gob.ar
     url: https://salud.misiones.gob.ar
-  - name: trabajo.misiones.gob.ar  
+  - name: trabajomisionesgob_ar  
     url: https://trabajo.misiones.gob.ar/
 
 
 #CHEKEO DE SISTEMAS FRONTEND
-  - name: sys.rpi.misiones.gob.ar
+  - name: sysrpimisionesgob-ar
     url: https://sys.rpi.misiones.gob.ar
-  - name: cio911.misiones.gob.ar
+  - name: cio911misionesgobar
     url: http://cio911.misiones.gob.ar/
 
 #CHEKEO DE SISTEMAS BACKEND
