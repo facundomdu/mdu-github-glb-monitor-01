@@ -94,6 +94,9 @@ status-website:
   #themeUrl: https://github.com/facundomdu/mdu-github-glb-monitor-01/blob/master/assets/misiones-theme.css
 #  themeUrl: https://facundomdu.github.io/mdu-github-glb-monitor-01/global.css
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  links:
+    - rel: stylesheet
+      href: https://halianelf.github.io/css/upptime.css
   name: Monitor externo MDU
   introTitle: "Monitor externo MDU"
  # introMessage: Esta es una página de estado de muestra que usa datos en tiempo real de nuestros sistemas
