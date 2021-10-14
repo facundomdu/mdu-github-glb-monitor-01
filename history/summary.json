@@ -10,11 +10,11 @@
     "uptimeWeek": "98.75%",
     "uptimeMonth": "98.98%",
     "uptimeYear": "98.98%",
-    "time": 3890,
-    "timeDay": 3455,
-    "timeWeek": 4046,
-    "timeMonth": 3890,
-    "timeYear": 3890,
+    "time": 3834,
+    "timeDay": 3085,
+    "timeWeek": 3966,
+    "timeMonth": 3834,
+    "timeYear": 3834,
     "dailyMinutesDown": {
       "2021-10-12": 66,
       "2021-10-09": 19,
@@ -32,36 +32,33 @@
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "99.54%",
-    "time": 2150,
-    "timeDay": 2058,
-    "timeWeek": 2273,
-    "timeMonth": 2150,
-    "timeYear": 2150,
+    "time": 2141,
+    "timeDay": 2012,
+    "timeWeek": 2254,
+    "timeMonth": 2141,
+    "timeYear": 2141,
     "dailyMinutesDown": {
       "2021-10-12": 18,
       "2021-10-08": 39
     }
   },
   {
-    "name": "acmci.misiones.gob.ar",
+    "name": "acmcimisionesgobar",
     "url": "https://acmci.misiones.gob.ar/",
     "icon": "https://favicons.githubusercontent.com/acmci.misiones.gob.ar",
-    "slug": "acmci-misiones-gob-ar",
+    "slug": "acmcimisionesgobar",
     "status": "up",
-    "uptime": "0.00%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-10-12": 16,
-      "2021-10-11": 24
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "agrifam.misiones.gob.ar",
@@ -200,7 +197,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-14": 786,
+      "2021-10-14": 789,
       "2021-10-13": 1440,
       "2021-10-12": 1440,
       "2021-10-11": 177
@@ -243,7 +240,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-14": 786,
+      "2021-10-14": 789,
       "2021-10-13": 1440,
       "2021-10-12": 1440,
       "2021-10-11": 176
@@ -508,7 +505,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-14": 786,
+      "2021-10-14": 789,
       "2021-10-13": 1440,
       "2021-10-12": 1440,
       "2021-10-11": 175
@@ -551,7 +548,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-14": 786,
+      "2021-10-14": 789,
       "2021-10-13": 1440,
       "2021-10-12": 1440,
       "2021-10-11": 177
@@ -594,30 +591,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "trabajo.misiones.gob.ar",
+    "name": "trabajomisionesgob_ar",
     "url": "https://trabajo.misiones.gob.ar/",
     "icon": "https://favicons.githubusercontent.com/trabajo.misiones.gob.ar",
-    "slug": "trabajo-misiones-gob-ar",
-    "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-10-12": 17
-    }
-  },
-  {
-    "name": "sys.rpi.misiones.gob.ar",
-    "url": "https://sys.rpi.misiones.gob.ar",
-    "icon": "https://favicons.githubusercontent.com/sys.rpi.misiones.gob.ar",
-    "slug": "sys-rpi-misiones-gob-ar",
+    "slug": "trabajomisionesgob-ar",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -632,23 +609,39 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "cio911.misiones.gob.ar",
-    "url": "http://cio911.misiones.gob.ar/",
-    "icon": "https://favicons.githubusercontent.com/cio911.misiones.gob.ar",
-    "slug": "cio911-misiones-gob-ar",
+    "name": "sysrpimisionesgob-ar",
+    "url": "https://sys.rpi.misiones.gob.ar",
+    "icon": "https://favicons.githubusercontent.com/sys.rpi.misiones.gob.ar",
+    "slug": "sysrpimisionesgob-ar",
     "status": "up",
-    "uptime": "0.00%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-10-13": 247
-    }
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "cio911misionesgobar",
+    "url": "http://cio911.misiones.gob.ar/",
+    "icon": "https://favicons.githubusercontent.com/cio911.misiones.gob.ar",
+    "slug": "cio911misionesgobar",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
