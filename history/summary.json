@@ -10,11 +10,11 @@
     "uptimeWeek": "98.75%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "98.97%",
-    "time": 3957,
-    "timeDay": 4665,
-    "timeWeek": 4150,
-    "timeMonth": 3957,
-    "timeYear": 3957,
+    "time": 3951,
+    "timeDay": 4214,
+    "timeWeek": 4134,
+    "timeMonth": 3951,
+    "timeYear": 3951,
     "dailyMinutesDown": {
       "2021-10-12": 66,
       "2021-10-09": 19,
@@ -27,16 +27,16 @@
     "icon": "https://favicons.githubusercontent.com/marandu.com.ar",
     "slug": "marandu",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
-    "time": 2156,
-    "timeDay": 2027,
-    "timeWeek": 2295,
-    "timeMonth": 2156,
-    "timeYear": 2156,
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 2153,
+    "timeDay": 2044,
+    "timeWeek": 2283,
+    "timeMonth": 2153,
+    "timeYear": 2153,
     "dailyMinutesDown": {
       "2021-10-12": 18,
       "2021-10-08": 39
@@ -153,7 +153,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-14": 687,
+      "2021-10-14": 693,
       "2021-10-13": 1440,
       "2021-10-12": 1440,
       "2021-10-11": 177
@@ -196,7 +196,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-14": 687,
+      "2021-10-14": 693,
       "2021-10-13": 1440,
       "2021-10-12": 1440,
       "2021-10-11": 177
@@ -382,7 +382,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-14": 687,
+      "2021-10-14": 693,
       "2021-10-13": 1440,
       "2021-10-12": 1440,
       "2021-10-11": 176
@@ -571,7 +571,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-14": 687,
+      "2021-10-14": 693,
       "2021-10-13": 1440,
       "2021-10-12": 1440,
       "2021-10-11": 175
