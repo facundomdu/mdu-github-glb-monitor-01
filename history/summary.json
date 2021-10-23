@@ -205,7 +205,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-23": 383,
+      "2021-10-23": 405,
       "2021-10-22": 1440,
       "2021-10-21": 1440,
       "2021-10-20": 1440,
@@ -227,8 +227,8 @@
     "slug": "comunicacion-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "10.71%",
+    "uptimeWeek": "10.71%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
@@ -237,6 +237,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-23": 4,
       "2021-10-11": 24
     }
   },
@@ -257,7 +258,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-23": 383,
+      "2021-10-23": 405,
       "2021-10-22": 1440,
       "2021-10-21": 1440,
       "2021-10-20": 1440,
@@ -541,7 +542,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-23": 383,
+      "2021-10-23": 405,
       "2021-10-22": 1440,
       "2021-10-21": 1440,
       "2021-10-20": 1440,
@@ -563,8 +564,8 @@
     "slug": "www-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "46.64%",
-    "uptimeWeek": "46.64%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
@@ -573,7 +574,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-23": 1,
+      "2021-10-23": 22,
       "2021-10-12": 62
     }
   },
@@ -594,7 +595,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-23": 383,
+      "2021-10-23": 405,
       "2021-10-22": 1440,
       "2021-10-21": 1440,
       "2021-10-20": 1440,
