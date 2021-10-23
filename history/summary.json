@@ -5,18 +5,18 @@
     "icon": "https://misiones.gob.ar/favicon.ico",
     "slug": "misiones",
     "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
+    "uptime": "99.32%",
+    "uptimeDay": "96.96%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 3998,
     "timeDay": 3866,
     "timeWeek": 4594,
     "timeMonth": 3998,
     "timeYear": 3998,
     "dailyMinutesDown": {
-      "2021-10-23": 4,
+      "2021-10-23": 19,
       "2021-10-22": 25,
       "2021-10-12": 66,
       "2021-10-09": 19,
@@ -28,18 +28,19 @@
     "url": "https://marandu.com.ar",
     "icon": "https://favicons.githubusercontent.com/marandu.com.ar",
     "slug": "marandu",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "98.30%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "status": "down",
+    "uptime": "99.63%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 2096,
     "timeDay": 2054,
     "timeWeek": 1930,
     "timeMonth": 2096,
     "timeYear": 2096,
     "dailyMinutesDown": {
+      "2021-10-23": 10,
       "2021-10-22": 24,
       "2021-10-12": 18,
       "2021-10-08": 39
@@ -62,6 +63,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-23": 9,
       "2021-10-22": 24
     }
   },
@@ -72,7 +74,7 @@
     "slug": "agrifam-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "15.99%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -82,6 +84,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-23": 8,
       "2021-10-17": 33,
       "2021-10-12": 16,
       "2021-10-11": 24
@@ -104,6 +107,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-23": 8,
       "2021-10-22": 16,
       "2021-10-12": 15,
       "2021-10-11": 24
@@ -204,7 +208,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-23": 341,
+      "2021-10-23": 358,
       "2021-10-22": 1440,
       "2021-10-21": 1440,
       "2021-10-20": 1440,
@@ -256,7 +260,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-23": 341,
+      "2021-10-23": 358,
       "2021-10-22": 1440,
       "2021-10-21": 1440,
       "2021-10-20": 1440,
@@ -397,17 +401,19 @@
     "icon": "https://favicons.githubusercontent.com/fiestadelinmigrante.com.ar",
     "slug": "fiestadelinmigrante-com-ar",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "21.86%",
+    "uptimeDay": "21.86%",
+    "uptimeWeek": "21.86%",
+    "uptimeMonth": "21.86%",
+    "uptimeYear": "21.86%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-23": 5
+    }
   },
   {
     "name": "fiscaliadeestado.misiones.gob.ar",
@@ -436,8 +442,8 @@
     "slug": "fondocredito-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "29.86%",
+    "uptimeWeek": "29.86%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
@@ -446,6 +452,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-23": 3,
       "2021-10-12": 20
     }
   },
@@ -455,17 +462,19 @@
     "icon": "https://favicons.githubusercontent.com/gobierno.misiones.gob.ar",
     "slug": "gobierno-misiones-gob-ar",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "14.76%",
+    "uptimeDay": "14.76%",
+    "uptimeWeek": "14.76%",
+    "uptimeMonth": "14.76%",
+    "uptimeYear": "14.76%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-23": 3
+    }
   },
   {
     "name": "guacurari.misiones.gob.ar",
@@ -538,7 +547,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-23": 341,
+      "2021-10-23": 358,
       "2021-10-22": 1440,
       "2021-10-21": 1440,
       "2021-10-20": 1440,
@@ -590,7 +599,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-23": 341,
+      "2021-10-23": 358,
       "2021-10-22": 1440,
       "2021-10-21": 1440,
       "2021-10-20": 1440,
