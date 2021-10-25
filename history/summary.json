@@ -4,19 +4,19 @@
     "url": "https://misiones.gob.ar",
     "icon": "https://misiones.gob.ar/favicon.ico",
     "slug": "misiones",
-    "status": "down",
-    "uptime": "99.29%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.29%",
-    "uptimeYear": "99.29%",
-    "time": 4045,
-    "timeDay": 5314,
-    "timeWeek": 3826,
-    "timeMonth": 4045,
-    "timeYear": 4045,
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
+    "time": 4016,
+    "timeDay": 4610,
+    "timeWeek": 3731,
+    "timeMonth": 4016,
+    "timeYear": 4016,
     "dailyMinutesDown": {
-      "2021-10-25": 5,
+      "2021-10-25": 9,
       "2021-10-23": 41,
       "2021-10-22": 25,
       "2021-10-12": 66,
@@ -212,7 +212,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-25": 528,
+      "2021-10-25": 534,
       "2021-10-24": 1440,
       "2021-10-23": 1440,
       "2021-10-22": 1440,
@@ -267,7 +267,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-25": 528,
+      "2021-10-25": 534,
       "2021-10-24": 1440,
       "2021-10-23": 1440,
       "2021-10-22": 1440,
@@ -291,7 +291,7 @@
     "slug": "defensoriadennya-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "15.73%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -301,7 +301,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-25": 3,
+      "2021-10-25": 8,
       "2021-10-23": 33,
       "2021-10-17": 42,
       "2021-10-12": 44
@@ -314,7 +314,7 @@
     "slug": "derechoshumanos-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "19.03%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -324,7 +324,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-25": 2,
+      "2021-10-25": 7,
       "2021-10-23": 53,
       "2021-10-17": 42
     }
@@ -336,7 +336,7 @@
     "slug": "desarrollosocial-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "23.15%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -346,7 +346,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-25": 2,
+      "2021-10-25": 7,
       "2021-10-23": 53,
       "2021-10-17": 53
     }
@@ -569,7 +569,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-25": 528,
+      "2021-10-25": 535,
       "2021-10-24": 1440,
       "2021-10-23": 1440,
       "2021-10-22": 1440,
@@ -624,7 +624,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-25": 528,
+      "2021-10-25": 535,
       "2021-10-24": 1440,
       "2021-10-23": 1440,
       "2021-10-22": 1440,
