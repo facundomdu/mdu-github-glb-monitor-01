@@ -138,7 +138,7 @@
     "slug": "biofabrica-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "40.83%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -148,6 +148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-26": 2,
       "2021-10-23": 38,
       "2021-10-11": 24
     }
@@ -159,7 +160,7 @@
     "slug": "cea-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "24.04%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -169,6 +170,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-26": 2,
       "2021-10-23": 21,
       "2021-10-11": 24
     }
@@ -211,7 +213,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-26": 354,
+      "2021-10-26": 372,
       "2021-10-25": 1440,
       "2021-10-24": 1440,
       "2021-10-23": 1440,
@@ -267,7 +269,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-26": 354,
+      "2021-10-26": 372,
       "2021-10-25": 1440,
       "2021-10-24": 1440,
       "2021-10-23": 1440,
@@ -567,7 +569,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-26": 354,
+      "2021-10-26": 372,
       "2021-10-25": 1440,
       "2021-10-24": 1440,
       "2021-10-23": 1440,
@@ -623,7 +625,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-26": 354,
+      "2021-10-26": 372,
       "2021-10-25": 1440,
       "2021-10-24": 1440,
       "2021-10-23": 1440,
