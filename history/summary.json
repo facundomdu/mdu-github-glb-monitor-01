@@ -6,7 +6,7 @@
     "slug": "misiones",
     "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "98.49%",
+    "uptimeDay": "98.89%",
     "uptimeWeek": "99.07%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.32%",
@@ -31,7 +31,7 @@
     "slug": "marandu",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "98.48%",
+    "uptimeDay": "98.88%",
     "uptimeWeek": "98.83%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.46%",
@@ -99,7 +99,7 @@
     "slug": "agro-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "20.73%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -109,7 +109,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 6,
+      "2021-10-28": 10,
       "2021-10-23": 21,
       "2021-10-22": 16,
       "2021-10-12": 15,
@@ -216,7 +216,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 411,
+      "2021-10-28": 417,
       "2021-10-27": 1440,
       "2021-10-26": 1440,
       "2021-10-25": 1440,
@@ -275,7 +275,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 411,
+      "2021-10-28": 417,
       "2021-10-27": 1440,
       "2021-10-26": 1440,
       "2021-10-25": 1440,
@@ -358,7 +358,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 23,
+      "2021-10-28": 27,
       "2021-10-23": 53,
       "2021-10-17": 53
     }
@@ -380,7 +380,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 22,
+      "2021-10-28": 27,
       "2021-10-23": 34,
       "2021-10-17": 43
     }
@@ -583,7 +583,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 411,
+      "2021-10-28": 417,
       "2021-10-27": 1440,
       "2021-10-26": 1440,
       "2021-10-25": 1440,
@@ -643,7 +643,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 411,
+      "2021-10-28": 417,
       "2021-10-27": 1440,
       "2021-10-26": 1440,
       "2021-10-25": 1440,
