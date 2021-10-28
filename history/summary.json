@@ -4,18 +4,19 @@
     "url": "https://misiones.gob.ar",
     "icon": "https://misiones.gob.ar/favicon.ico",
     "slug": "misiones",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.32%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
     "time": 3907,
     "timeDay": 3484,
     "timeWeek": 3663,
     "timeMonth": 3907,
     "timeYear": 3907,
     "dailyMinutesDown": {
+      "2021-10-28": 10,
       "2021-10-27": 27,
       "2021-10-23": 41,
       "2021-10-22": 25,
@@ -29,18 +30,19 @@
     "url": "https://marandu.com.ar",
     "icon": "https://favicons.githubusercontent.com/marandu.com.ar",
     "slug": "marandu",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
     "time": 2294,
     "timeDay": 2369,
     "timeWeek": 2738,
     "timeMonth": 2294,
     "timeYear": 2294,
     "dailyMinutesDown": {
+      "2021-10-28": 10,
       "2021-10-27": 27,
       "2021-10-23": 67,
       "2021-10-22": 24,
@@ -55,7 +57,7 @@
     "slug": "acmcimisionesgobar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "20.14%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -65,6 +67,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-28": 8,
       "2021-10-23": 35,
       "2021-10-22": 24
     }
@@ -86,7 +89,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 18,
+      "2021-10-28": 25,
       "2021-10-23": 21,
       "2021-10-17": 33,
       "2021-10-12": 16,
@@ -100,7 +103,7 @@
     "slug": "agro-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "9.44%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -110,6 +113,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-28": 8,
       "2021-10-23": 21,
       "2021-10-22": 16,
       "2021-10-12": 15,
@@ -151,7 +155,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 17,
+      "2021-10-28": 24,
       "2021-10-26": 24,
       "2021-10-23": 38,
       "2021-10-11": 24
@@ -174,7 +178,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 16,
+      "2021-10-28": 23,
       "2021-10-26": 24,
       "2021-10-23": 21,
       "2021-10-11": 24
@@ -197,7 +201,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 16,
+      "2021-10-28": 22,
       "2021-10-23": 20,
       "2021-10-11": 24
     }
@@ -219,7 +223,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 507,
+      "2021-10-28": 532,
       "2021-10-27": 1440,
       "2021-10-26": 1440,
       "2021-10-25": 1440,
@@ -256,7 +260,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 19,
+      "2021-10-28": 25,
       "2021-10-23": 46,
       "2021-10-11": 24
     }
@@ -278,7 +282,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 507,
+      "2021-10-28": 532,
       "2021-10-27": 1440,
       "2021-10-26": 1440,
       "2021-10-25": 1440,
@@ -315,7 +319,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 19,
+      "2021-10-28": 24,
       "2021-10-23": 33,
       "2021-10-17": 42,
       "2021-10-12": 44
@@ -338,7 +342,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 19,
+      "2021-10-28": 24,
       "2021-10-27": 26,
       "2021-10-23": 53,
       "2021-10-17": 42
@@ -361,7 +365,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 27,
+      "2021-10-28": 31,
       "2021-10-23": 53,
       "2021-10-17": 53
     }
@@ -383,7 +387,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 27,
+      "2021-10-28": 30,
       "2021-10-23": 34,
       "2021-10-17": 43
     }
@@ -405,7 +409,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 19,
+      "2021-10-28": 22,
       "2021-10-23": 34
     }
   },
@@ -416,7 +420,7 @@
     "slug": "expomujer-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "17.47%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -426,6 +430,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-28": 2,
       "2021-10-23": 34,
       "2021-10-22": 16,
       "2021-10-12": 37
@@ -586,7 +591,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 508,
+      "2021-10-28": 532,
       "2021-10-27": 1440,
       "2021-10-26": 1440,
       "2021-10-25": 1440,
@@ -646,7 +651,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 508,
+      "2021-10-28": 532,
       "2021-10-27": 1440,
       "2021-10-26": 1440,
       "2021-10-25": 1440,
