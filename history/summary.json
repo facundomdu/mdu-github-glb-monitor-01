@@ -215,7 +215,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 434,
+      "2021-10-28": 454,
       "2021-10-27": 1440,
       "2021-10-26": 1440,
       "2021-10-25": 1440,
@@ -274,7 +274,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 434,
+      "2021-10-28": 454,
       "2021-10-27": 1440,
       "2021-10-26": 1440,
       "2021-10-25": 1440,
@@ -582,7 +582,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 434,
+      "2021-10-28": 454,
       "2021-10-27": 1440,
       "2021-10-26": 1440,
       "2021-10-25": 1440,
@@ -619,7 +619,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 20,
+      "2021-10-28": 22,
       "2021-10-27": 20,
       "2021-10-23": 66,
       "2021-10-12": 62
@@ -642,7 +642,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 434,
+      "2021-10-28": 454,
       "2021-10-27": 1440,
       "2021-10-26": 1440,
       "2021-10-25": 1440,
@@ -668,17 +668,19 @@
     "icon": "https://favicons.githubusercontent.com/rpi.misiones.gob.ar",
     "slug": "rpi-misiones-gob-ar",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "25.91%",
+    "uptimeDay": "25.91%",
+    "uptimeWeek": "25.91%",
+    "uptimeMonth": "25.91%",
+    "uptimeYear": "25.91%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-28": 1
+    }
   },
   {
     "name": "salud.misiones.gob.ar",
@@ -686,17 +688,19 @@
     "icon": "https://favicons.githubusercontent.com/salud.misiones.gob.ar",
     "slug": "salud-misiones-gob-ar",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "33.98%",
+    "uptimeDay": "33.98%",
+    "uptimeWeek": "33.98%",
+    "uptimeMonth": "33.98%",
+    "uptimeYear": "33.98%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-28": 1
+    }
   },
   {
     "name": "trabajomisionesgob_ar",
@@ -704,17 +708,19 @@
     "icon": "https://favicons.githubusercontent.com/trabajo.misiones.gob.ar",
     "slug": "trabajomisionesgob-ar",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "56.30%",
+    "uptimeDay": "56.30%",
+    "uptimeWeek": "56.30%",
+    "uptimeMonth": "56.30%",
+    "uptimeYear": "56.30%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-28": 0
+    }
   },
   {
     "name": "sysrpimisionesgob-ar",
