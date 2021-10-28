@@ -4,18 +4,19 @@
     "url": "https://misiones.gob.ar",
     "icon": "https://misiones.gob.ar/favicon.ico",
     "slug": "misiones",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.32%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
     "time": 3879,
     "timeDay": 2478,
     "timeWeek": 3555,
     "timeMonth": 3879,
     "timeYear": 3879,
     "dailyMinutesDown": {
+      "2021-10-28": 9,
       "2021-10-27": 27,
       "2021-10-23": 41,
       "2021-10-22": 25,
@@ -29,18 +30,19 @@
     "url": "https://marandu.com.ar",
     "icon": "https://favicons.githubusercontent.com/marandu.com.ar",
     "slug": "marandu",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.46%",
-    "uptimeYear": "99.46%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
     "time": 2285,
     "timeDay": 2061,
     "timeWeek": 2743,
     "timeMonth": 2285,
     "timeYear": 2285,
     "dailyMinutesDown": {
+      "2021-10-28": 8,
       "2021-10-27": 27,
       "2021-10-23": 67,
       "2021-10-22": 24,
@@ -55,7 +57,7 @@
     "slug": "acmcimisionesgobar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "6.14%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -65,6 +67,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-28": 8,
       "2021-10-23": 35,
       "2021-10-22": 24
     }
@@ -76,7 +79,7 @@
     "slug": "agrifam-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "6.48%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -86,6 +89,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-28": 7,
       "2021-10-23": 21,
       "2021-10-17": 33,
       "2021-10-12": 16,
@@ -99,7 +103,7 @@
     "slug": "agro-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "6.88%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -109,6 +113,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-28": 7,
       "2021-10-23": 21,
       "2021-10-22": 16,
       "2021-10-12": 15,
@@ -140,7 +145,7 @@
     "slug": "biofabrica-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "7.23%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -150,6 +155,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-28": 6,
       "2021-10-26": 24,
       "2021-10-23": 38,
       "2021-10-11": 24
@@ -162,7 +168,7 @@
     "slug": "cea-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "8.03%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -172,6 +178,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-28": 6,
       "2021-10-26": 24,
       "2021-10-23": 21,
       "2021-10-11": 24
@@ -184,7 +191,7 @@
     "slug": "ceambiental-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "8.67%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -194,6 +201,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-28": 5,
       "2021-10-23": 20,
       "2021-10-11": 24
     }
@@ -215,7 +223,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 454,
+      "2021-10-28": 468,
       "2021-10-27": 1440,
       "2021-10-26": 1440,
       "2021-10-25": 1440,
@@ -274,7 +282,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 454,
+      "2021-10-28": 468,
       "2021-10-27": 1440,
       "2021-10-26": 1440,
       "2021-10-25": 1440,
@@ -496,7 +504,7 @@
     "slug": "gobierno-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "14.14%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -506,6 +514,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-28": 3,
       "2021-10-23": 18
     }
   },
@@ -534,7 +543,7 @@
     "slug": "htc-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "16.80%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -544,6 +553,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-28": 3,
       "2021-10-23": 18
     }
   },
@@ -582,7 +592,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 454,
+      "2021-10-28": 468,
       "2021-10-27": 1440,
       "2021-10-26": 1440,
       "2021-10-25": 1440,
@@ -619,7 +629,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 22,
+      "2021-10-28": 35,
       "2021-10-27": 20,
       "2021-10-23": 66,
       "2021-10-12": 62
@@ -642,7 +652,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 454,
+      "2021-10-28": 468,
       "2021-10-27": 1440,
       "2021-10-26": 1440,
       "2021-10-25": 1440,
@@ -668,18 +678,18 @@
     "icon": "https://favicons.githubusercontent.com/rpi.misiones.gob.ar",
     "slug": "rpi-misiones-gob-ar",
     "status": "up",
-    "uptime": "25.91%",
-    "uptimeDay": "25.91%",
-    "uptimeWeek": "25.91%",
-    "uptimeMonth": "25.91%",
-    "uptimeYear": "25.91%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 1
+      "2021-10-28": 14
     }
   },
   {
@@ -688,18 +698,18 @@
     "icon": "https://favicons.githubusercontent.com/salud.misiones.gob.ar",
     "slug": "salud-misiones-gob-ar",
     "status": "up",
-    "uptime": "33.98%",
-    "uptimeDay": "33.98%",
-    "uptimeWeek": "33.98%",
-    "uptimeMonth": "33.98%",
-    "uptimeYear": "33.98%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 1
+      "2021-10-28": 14
     }
   },
   {
@@ -708,18 +718,18 @@
     "icon": "https://favicons.githubusercontent.com/trabajo.misiones.gob.ar",
     "slug": "trabajomisionesgob-ar",
     "status": "up",
-    "uptime": "56.30%",
-    "uptimeDay": "56.30%",
-    "uptimeWeek": "56.30%",
-    "uptimeMonth": "56.30%",
-    "uptimeYear": "56.30%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-28": 0
+      "2021-10-28": 14
     }
   },
   {
