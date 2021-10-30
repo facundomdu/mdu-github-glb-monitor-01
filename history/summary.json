@@ -5,18 +5,18 @@
     "icon": "https://misiones.gob.ar/favicon.ico",
     "slug": "misiones",
     "status": "down",
-    "uptime": "99.01%",
-    "uptimeDay": "98.00%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.01%",
+    "uptime": "98.94%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "98.94%",
     "time": 4154,
     "timeDay": 9329,
-    "timeWeek": 4646,
+    "timeWeek": 4769,
     "timeMonth": 4154,
     "timeYear": 4154,
     "dailyMinutesDown": {
-      "2021-10-30": 29,
+      "2021-10-30": 51,
       "2021-10-29": 82,
       "2021-10-28": 18,
       "2021-10-27": 27,
@@ -32,19 +32,19 @@
     "url": "https://marandu.com.ar",
     "icon": "https://favicons.githubusercontent.com/marandu.com.ar",
     "slug": "marandu",
-    "status": "down",
-    "uptime": "99.19%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "98.58%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.19%",
-    "time": 2282,
-    "timeDay": 2032,
-    "timeWeek": 2238,
-    "timeMonth": 2282,
-    "timeYear": 2282,
+    "status": "up",
+    "uptime": "99.16%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
+    "time": 2310,
+    "timeDay": 2621,
+    "timeWeek": 2334,
+    "timeMonth": 2310,
+    "timeYear": 2310,
     "dailyMinutesDown": {
-      "2021-10-30": 28,
+      "2021-10-30": 41,
       "2021-10-29": 62,
       "2021-10-28": 18,
       "2021-10-27": 27,
@@ -228,7 +228,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-30": 503,
+      "2021-10-30": 526,
       "2021-10-29": 1440,
       "2021-10-28": 1440,
       "2021-10-27": 1440,
@@ -289,7 +289,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-30": 503,
+      "2021-10-30": 526,
       "2021-10-29": 1440,
       "2021-10-28": 1440,
       "2021-10-27": 1440,
@@ -328,7 +328,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-30": 20,
+      "2021-10-30": 28,
       "2021-10-29": 33,
       "2021-10-28": 37,
       "2021-10-23": 33,
@@ -353,7 +353,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-30": 24,
+      "2021-10-30": 39,
       "2021-10-29": 32,
       "2021-10-28": 37,
       "2021-10-27": 26,
@@ -368,7 +368,7 @@
     "slug": "desarrollosocial-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "10.43%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -378,7 +378,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-30": 4,
+      "2021-10-30": 19,
       "2021-10-29": 32,
       "2021-10-28": 44,
       "2021-10-23": 53,
@@ -503,7 +503,7 @@
     "slug": "fondocredito-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "23.29%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -513,6 +513,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-30": 5,
       "2021-10-29": 21,
       "2021-10-23": 18,
       "2021-10-12": 20
@@ -525,7 +526,7 @@
     "slug": "gobierno-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "36.22%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -535,7 +536,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-30": 2,
+      "2021-10-30": 25,
       "2021-10-29": 20,
       "2021-10-23": 18
     }
@@ -565,7 +566,7 @@
     "slug": "htc-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "11.70%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -575,6 +576,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-30": 4,
       "2021-10-29": 41,
       "2021-10-23": 18
     }
@@ -614,7 +616,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-30": 504,
+      "2021-10-30": 526,
       "2021-10-29": 1440,
       "2021-10-28": 1440,
       "2021-10-27": 1440,
@@ -643,7 +645,7 @@
     "slug": "www-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "25.57%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -653,6 +655,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-30": 2,
       "2021-10-29": 55,
       "2021-10-28": 35,
       "2021-10-27": 20,
@@ -677,7 +680,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-30": 504,
+      "2021-10-30": 526,
       "2021-10-29": 1440,
       "2021-10-28": 1440,
       "2021-10-27": 1440,
@@ -706,7 +709,7 @@
     "slug": "rpi-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "25.88%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -716,6 +719,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-30": 1,
       "2021-10-29": 19
     }
   },
@@ -726,7 +730,7 @@
     "slug": "salud-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "35.35%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -736,6 +740,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-30": 1,
       "2021-10-29": 19
     }
   },
@@ -746,7 +751,7 @@
     "slug": "trabajomisionesgob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "56.53%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -756,6 +761,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-10-30": 0,
       "2021-10-29": 18
     }
   },
