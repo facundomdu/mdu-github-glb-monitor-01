@@ -4,19 +4,19 @@
     "url": "https://misiones.gob.ar",
     "icon": "https://misiones.gob.ar/favicon.ico",
     "slug": "misiones",
-    "status": "down",
-    "uptime": "98.70%",
-    "uptimeDay": "93.50%",
-    "uptimeWeek": "97.18%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "98.70%",
-    "time": 4241,
-    "timeDay": 5205,
-    "timeWeek": 4825,
-    "timeMonth": 4241,
-    "timeYear": 4241,
+    "status": "up",
+    "uptime": "98.69%",
+    "uptimeDay": "93.28%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "98.69%",
+    "time": 4388,
+    "timeDay": 6599,
+    "timeWeek": 5248,
+    "timeMonth": 4388,
+    "timeYear": 4388,
     "dailyMinutesDown": {
-      "2021-10-31": 94,
+      "2021-10-31": 97,
       "2021-10-30": 62,
       "2021-10-29": 82,
       "2021-10-28": 18,
@@ -34,18 +34,18 @@
     "icon": "https://favicons.githubusercontent.com/marandu.com.ar",
     "slug": "marandu",
     "status": "down",
-    "uptime": "98.96%",
-    "uptimeDay": "96.01%",
-    "uptimeWeek": "97.68%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "98.96%",
+    "uptime": "98.94%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "97.61%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "98.94%",
     "time": 3370,
-    "timeDay": 14438,
+    "timeDay": 15605,
     "timeWeek": 5684,
     "timeMonth": 3370,
     "timeYear": 3370,
     "dailyMinutesDown": {
-      "2021-10-31": 58,
+      "2021-10-31": 65,
       "2021-10-30": 70,
       "2021-10-29": 62,
       "2021-10-28": 18,
@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-31": 56,
+      "2021-10-31": 63,
       "2021-10-29": 19,
       "2021-10-23": 35,
       "2021-10-22": 24
@@ -96,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-31": 32,
+      "2021-10-31": 35,
       "2021-10-29": 42,
       "2021-10-28": 39,
       "2021-10-23": 21,
@@ -122,7 +122,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-31": 31,
+      "2021-10-31": 33,
       "2021-10-28": 21,
       "2021-10-23": 21,
       "2021-10-22": 16,
@@ -165,7 +165,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-31": 21,
+      "2021-10-31": 26,
       "2021-10-28": 37,
       "2021-10-26": 24,
       "2021-10-23": 38,
@@ -236,7 +236,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-31": 581,
+      "2021-10-31": 589,
       "2021-10-30": 1440,
       "2021-10-29": 1440,
       "2021-10-28": 1440,
@@ -266,7 +266,7 @@
     "slug": "comunicacion-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -276,7 +276,6 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-31": 15,
       "2021-10-28": 38,
       "2021-10-23": 46,
       "2021-10-11": 24
@@ -299,7 +298,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-31": 581,
+      "2021-10-31": 589,
       "2021-10-30": 1440,
       "2021-10-29": 1440,
       "2021-10-28": 1440,
@@ -329,7 +328,7 @@
     "slug": "defensoriadennya-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -339,7 +338,6 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-31": 14,
       "2021-10-30": 42,
       "2021-10-29": 33,
       "2021-10-28": 37,
@@ -355,7 +353,7 @@
     "slug": "derechoshumanos-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -365,7 +363,6 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-31": 14,
       "2021-10-30": 66,
       "2021-10-29": 32,
       "2021-10-28": 37,
@@ -381,7 +378,7 @@
     "slug": "desarrollosocial-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -391,7 +388,6 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-31": 13,
       "2021-10-30": 19,
       "2021-10-29": 32,
       "2021-10-28": 44,
@@ -636,7 +632,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-31": 581,
+      "2021-10-31": 589,
       "2021-10-30": 1440,
       "2021-10-29": 1440,
       "2021-10-28": 1440,
@@ -676,7 +672,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-31": 35,
+      "2021-10-31": 42,
       "2021-10-30": 45,
       "2021-10-29": 55,
       "2021-10-28": 35,
@@ -702,7 +698,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-31": 581,
+      "2021-10-31": 589,
       "2021-10-30": 1440,
       "2021-10-29": 1440,
       "2021-10-28": 1440,
@@ -742,7 +738,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-31": 1,
+      "2021-10-31": 8,
       "2021-10-30": 25,
       "2021-10-29": 19
     }
@@ -764,7 +760,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-31": 1,
+      "2021-10-31": 8,
       "2021-10-30": 25,
       "2021-10-29": 19
     }
@@ -786,7 +782,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-31": 17,
+      "2021-10-31": 24,
       "2021-10-30": 24,
       "2021-10-29": 18
     }
