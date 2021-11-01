@@ -10,11 +10,11 @@
     "uptimeWeek": "97.06%",
     "uptimeMonth": "98.74%",
     "uptimeYear": "98.74%",
-    "time": 4521,
-    "timeDay": 4075,
-    "timeWeek": 5636,
-    "timeMonth": 4521,
-    "timeYear": 4521,
+    "time": 4488,
+    "timeDay": 2003,
+    "timeWeek": 5611,
+    "timeMonth": 4488,
+    "timeYear": 4488,
     "dailyMinutesDown": {
       "2021-10-31": 107,
       "2021-10-30": 62,
@@ -39,11 +39,11 @@
     "uptimeWeek": "97.35%",
     "uptimeMonth": "98.93%",
     "uptimeYear": "98.93%",
-    "time": 3337,
-    "timeDay": 1996,
-    "timeWeek": 5233,
-    "timeMonth": 3337,
-    "timeYear": 3337,
+    "time": 3315,
+    "timeDay": 1909,
+    "timeWeek": 5208,
+    "timeMonth": 3315,
+    "timeYear": 3315,
     "dailyMinutesDown": {
       "2021-10-31": 91,
       "2021-10-30": 70,
@@ -236,7 +236,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-01": 1385,
+      "2021-11-01": 1396,
       "2021-10-31": 1440,
       "2021-10-30": 1440,
       "2021-10-29": 1440,
@@ -299,7 +299,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-01": 1385,
+      "2021-11-01": 1396,
       "2021-10-31": 1440,
       "2021-10-30": 1440,
       "2021-10-29": 1440,
@@ -639,7 +639,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-01": 1385,
+      "2021-11-01": 1396,
       "2021-10-31": 1440,
       "2021-10-30": 1440,
       "2021-10-29": 1440,
@@ -706,7 +706,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-01": 1385,
+      "2021-11-01": 1396,
       "2021-10-31": 1440,
       "2021-10-30": 1440,
       "2021-10-29": 1440,
@@ -821,7 +821,7 @@
     "slug": "cio911misionesgobar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "82.69%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -831,6 +831,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-11-01": 0,
       "2021-10-30": 132
     }
   }
