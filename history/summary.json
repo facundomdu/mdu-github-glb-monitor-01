@@ -11,8 +11,8 @@
     "uptimeMonth": "98.78%",
     "uptimeYear": "98.78%",
     "time": 4401,
-    "timeDay": 1991,
-    "timeWeek": 5662,
+    "timeDay": 0,
+    "timeWeek": 5669,
     "timeMonth": 4401,
     "timeYear": 4401,
     "dailyMinutesDown": {
@@ -41,8 +41,8 @@
     "uptimeMonth": "98.98%",
     "uptimeYear": "98.98%",
     "time": 3391,
-    "timeDay": 2012,
-    "timeWeek": 5601,
+    "timeDay": 0,
+    "timeWeek": 5734,
     "timeMonth": 3391,
     "timeYear": 3391,
     "dailyMinutesDown": {
@@ -116,7 +116,7 @@
     "slug": "agro-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -243,7 +243,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-04": 474,
+      "2021-11-04": 485,
       "2021-11-03": 1440,
       "2021-11-02": 1440,
       "2021-11-01": 1440,
@@ -309,7 +309,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-04": 474,
+      "2021-11-04": 485,
       "2021-11-03": 1440,
       "2021-11-02": 1440,
       "2021-11-01": 1440,
@@ -343,7 +343,7 @@
     "slug": "defensoriadennya-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "28.30%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -353,7 +353,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-04": 3,
+      "2021-11-04": 14,
       "2021-10-31": 18,
       "2021-10-30": 42,
       "2021-10-29": 33,
@@ -380,6 +380,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-11-04": 3,
       "2021-11-03": 38,
       "2021-10-30": 66,
       "2021-10-29": 32,
@@ -654,7 +655,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-04": 475,
+      "2021-11-04": 485,
       "2021-11-03": 1440,
       "2021-11-02": 1440,
       "2021-11-01": 1440,
@@ -724,7 +725,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-04": 475,
+      "2021-11-04": 485,
       "2021-11-03": 1440,
       "2021-11-02": 1440,
       "2021-11-01": 1440,
