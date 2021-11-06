@@ -12,7 +12,7 @@
     "uptimeYear": "98.83%",
     "time": 4362,
     "timeDay": 3528,
-    "timeWeek": 5845,
+    "timeWeek": 5051,
     "timeMonth": 4441,
     "timeYear": 4362,
     "dailyMinutesDown": {
@@ -36,18 +36,17 @@
     "icon": "https://favicons.githubusercontent.com/marandu.com.ar",
     "slug": "marandu",
     "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "98.33%",
-    "uptimeWeek": "98.21%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "98.99%",
+    "uptime": "99.01%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "99.01%",
     "time": 3314,
     "timeDay": 2287,
     "timeWeek": 5917,
     "timeMonth": 3438,
     "timeYear": 3314,
     "dailyMinutesDown": {
-      "2021-11-06": 9,
       "2021-11-05": 15,
       "2021-11-02": 17,
       "2021-10-31": 91,
@@ -246,7 +245,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-06": 462,
+      "2021-11-06": 469,
       "2021-11-05": 1440,
       "2021-11-04": 1440,
       "2021-11-03": 1440,
@@ -314,7 +313,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-06": 462,
+      "2021-11-06": 469,
       "2021-11-05": 1440,
       "2021-11-04": 1440,
       "2021-11-03": 1440,
@@ -350,7 +349,7 @@
     "slug": "defensoriadennya-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "8.76%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -360,7 +359,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-06": 5,
+      "2021-11-06": 10,
       "2021-11-04": 47,
       "2021-10-31": 18,
       "2021-10-30": 42,
@@ -378,7 +377,7 @@
     "slug": "derechoshumanos-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -388,7 +387,6 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-06": 7,
       "2021-11-04": 37,
       "2021-11-03": 38,
       "2021-10-30": 66,
@@ -527,7 +525,7 @@
     "slug": "fiscaliadeestado-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "32.87%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -537,7 +535,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-06": 3,
+      "2021-11-06": 8,
       "2021-10-31": 19,
       "2021-10-29": 21,
       "2021-10-23": 18,
@@ -665,7 +663,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-06": 463,
+      "2021-11-06": 470,
       "2021-11-05": 1440,
       "2021-11-04": 1440,
       "2021-11-03": 1440,
@@ -738,7 +736,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-06": 463,
+      "2021-11-06": 470,
       "2021-11-05": 1440,
       "2021-11-04": 1440,
       "2021-11-03": 1440,
@@ -868,7 +866,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-06": 32,
+      "2021-11-06": 39,
       "2021-10-30": 132
     }
   }
