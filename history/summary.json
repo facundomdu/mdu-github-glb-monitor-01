@@ -4,19 +4,19 @@
     "url": "https://misiones.gob.ar",
     "icon": "https://misiones.gob.ar/favicon.ico",
     "slug": "misiones",
-    "status": "up",
-    "uptime": "98.74%",
-    "uptimeDay": "96.24%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "98.74%",
+    "status": "down",
+    "uptime": "98.73%",
+    "uptimeDay": "95.85%",
+    "uptimeWeek": "98.41%",
+    "uptimeMonth": "98.65%",
+    "uptimeYear": "98.73%",
     "time": 4698,
     "timeDay": 11921,
     "timeWeek": 6406,
     "timeMonth": 4825,
     "timeYear": 4698,
     "dailyMinutesDown": {
-      "2021-11-07": 21,
+      "2021-11-07": 27,
       "2021-11-06": 33,
       "2021-11-05": 16,
       "2021-11-02": 25,
@@ -40,7 +40,7 @@
     "status": "up",
     "uptime": "98.97%",
     "uptimeDay": "97.75%",
-    "uptimeWeek": "98.49%",
+    "uptimeWeek": "98.67%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "98.97%",
     "time": 3296,
@@ -179,6 +179,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-11-07": 4,
       "2021-11-06": 49,
       "2021-11-03": 20,
       "2021-10-31": 33,
@@ -205,6 +206,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-11-07": 3,
       "2021-11-06": 48,
       "2021-10-31": 51,
       "2021-10-28": 36,
@@ -230,6 +232,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-11-07": 3,
       "2021-11-06": 19,
       "2021-10-31": 30,
       "2021-10-28": 35,
@@ -254,7 +257,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-07": 417,
+      "2021-11-07": 436,
       "2021-11-06": 1440,
       "2021-11-05": 1440,
       "2021-11-04": 1440,
@@ -324,7 +327,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-07": 417,
+      "2021-11-07": 436,
       "2021-11-06": 1440,
       "2021-11-05": 1440,
       "2021-11-04": 1440,
@@ -683,7 +686,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-07": 418,
+      "2021-11-07": 436,
       "2021-11-06": 1440,
       "2021-11-05": 1440,
       "2021-11-04": 1440,
@@ -730,7 +733,6 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-07": 11,
       "2021-11-06": 70,
       "2021-11-05": 27,
       "2021-10-31": 63,
@@ -759,7 +761,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-07": 418,
+      "2021-11-07": 436,
       "2021-11-06": 1440,
       "2021-11-05": 1440,
       "2021-11-04": 1440,
@@ -796,7 +798,7 @@
     "slug": "rpi-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -806,7 +808,6 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-07": 10,
       "2021-10-31": 29,
       "2021-10-30": 25,
       "2021-10-29": 19
@@ -819,7 +820,7 @@
     "slug": "salud-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -829,7 +830,6 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-07": 9,
       "2021-10-31": 51,
       "2021-10-30": 25,
       "2021-10-29": 19
@@ -842,7 +842,7 @@
     "slug": "trabajomisionesgob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -852,7 +852,6 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-07": 10,
       "2021-10-31": 45,
       "2021-10-30": 24,
       "2021-10-29": 18
@@ -893,7 +892,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-07": 0,
+      "2021-11-07": 19,
       "2021-11-06": 412,
       "2021-10-30": 132
     }
