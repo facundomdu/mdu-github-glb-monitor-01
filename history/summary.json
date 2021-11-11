@@ -10,11 +10,11 @@
     "uptimeWeek": "98.27%",
     "uptimeMonth": "98.57%",
     "uptimeYear": "98.71%",
-    "time": 4629,
-    "timeDay": 3432,
-    "timeWeek": 5443,
-    "timeMonth": 4908,
-    "timeYear": 4629,
+    "time": 4613,
+    "timeDay": 3546,
+    "timeWeek": 5337,
+    "timeMonth": 4883,
+    "timeYear": 4613,
     "dailyMinutesDown": {
       "2021-11-11": 26,
       "2021-11-08": 28,
@@ -40,16 +40,16 @@
     "icon": "https://favicons.githubusercontent.com/marandu.com.ar",
     "slug": "marandu",
     "status": "up",
-    "uptime": "99.01%",
+    "uptime": "99.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "98.89%",
-    "uptimeYear": "99.01%",
-    "time": 3173,
-    "timeDay": 2601,
-    "timeWeek": 2339,
-    "timeMonth": 3500,
-    "timeYear": 3173,
+    "uptimeYear": "99.02%",
+    "time": 3158,
+    "timeDay": 2619,
+    "timeWeek": 2312,
+    "timeMonth": 3475,
+    "timeYear": 3158,
     "dailyMinutesDown": {
       "2021-11-08": 28,
       "2021-11-07": 18,
@@ -270,7 +270,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-11": 1379,
+      "2021-11-11": 1395,
       "2021-11-10": 1440,
       "2021-11-09": 1440,
       "2021-11-08": 1440,
@@ -345,7 +345,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-11": 1379,
+      "2021-11-11": 1395,
       "2021-11-10": 1440,
       "2021-11-09": 1440,
       "2021-11-08": 1440,
@@ -715,7 +715,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-11": 1379,
+      "2021-11-11": 1395,
       "2021-11-10": 1440,
       "2021-11-09": 1440,
       "2021-11-08": 1440,
@@ -796,7 +796,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-11": 1379,
+      "2021-11-11": 1395,
       "2021-11-10": 1440,
       "2021-11-09": 1440,
       "2021-11-08": 1440,
@@ -923,7 +923,7 @@
     "slug": "cio911misionesgobar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "5.92%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -933,7 +933,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-11": 0,
+      "2021-11-11": 15,
       "2021-11-07": 19,
       "2021-11-06": 412,
       "2021-10-30": 132
@@ -956,7 +956,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-11": 415
+      "2021-11-11": 431
     }
   },
   {
@@ -976,7 +976,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-11": 415
+      "2021-11-11": 431
     }
   }
 ]
