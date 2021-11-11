@@ -5,15 +5,15 @@
     "icon": "https://misiones.gob.ar/favicon.ico",
     "slug": "misiones",
     "status": "up",
-    "uptime": "98.70%",
+    "uptime": "98.71%",
     "uptimeDay": "98.21%",
     "uptimeWeek": "98.27%",
     "uptimeMonth": "98.57%",
-    "uptimeYear": "98.70%",
+    "uptimeYear": "98.71%",
     "time": 4629,
     "timeDay": 3432,
     "timeWeek": 5443,
-    "timeMonth": 4873,
+    "timeMonth": 4908,
     "timeYear": 4629,
     "dailyMinutesDown": {
       "2021-11-11": 26,
@@ -48,7 +48,7 @@
     "time": 3173,
     "timeDay": 2601,
     "timeWeek": 2339,
-    "timeMonth": 3473,
+    "timeMonth": 3500,
     "timeYear": 3173,
     "dailyMinutesDown": {
       "2021-11-08": 28,
@@ -270,7 +270,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-11": 1275,
+      "2021-11-11": 1291,
       "2021-11-10": 1440,
       "2021-11-09": 1440,
       "2021-11-08": 1440,
@@ -345,7 +345,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-11": 1275,
+      "2021-11-11": 1291,
       "2021-11-10": 1440,
       "2021-11-09": 1440,
       "2021-11-08": 1440,
@@ -715,7 +715,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-11": 1275,
+      "2021-11-11": 1291,
       "2021-11-10": 1440,
       "2021-11-09": 1440,
       "2021-11-08": 1440,
@@ -796,7 +796,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-11": 1275,
+      "2021-11-11": 1291,
       "2021-11-10": 1440,
       "2021-11-09": 1440,
       "2021-11-08": 1440,
@@ -955,7 +955,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-11": 311
+      "2021-11-11": 327
     }
   },
   {
@@ -975,7 +975,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-11": 311
+      "2021-11-11": 327
     }
   }
 ]
