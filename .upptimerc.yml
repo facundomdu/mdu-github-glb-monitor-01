@@ -80,7 +80,18 @@ sites:
     url: http://cio911.misiones.gob.ar/
 
 #CHEKEO DE SISTEMAS BACKEND
+# eectoral test
+  - name: electoralA
+    url: https://electoral2021.misiones.gob.ar/
+    headers:
+      - "Server: electoral-site-a"
+      - "Content-Type: text/html"
 
+  - name: electoralB
+    url: https://electoral2021.misiones.gob.ar/
+    headers:
+      - "Server: electoral-site-b"
+      - "Content-Type: text/html"
 
 
 status-website:
