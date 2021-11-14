@@ -4,19 +4,19 @@
     "url": "https://misiones.gob.ar",
     "icon": "https://misiones.gob.ar/favicon.ico",
     "slug": "misiones",
-    "status": "down",
-    "uptime": "98.45%",
-    "uptimeDay": "96.96%",
-    "uptimeWeek": "97.23%",
-    "uptimeMonth": "98.28%",
-    "uptimeYear": "98.45%",
-    "time": 4593,
-    "timeDay": 3334,
-    "timeWeek": 3514,
-    "timeMonth": 4840,
-    "timeYear": 4593,
+    "status": "up",
+    "uptime": "98.40%",
+    "uptimeDay": "95.26%",
+    "uptimeWeek": "96.99%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "98.40%",
+    "time": 4659,
+    "timeDay": 6219,
+    "timeWeek": 3960,
+    "timeMonth": 4928,
+    "timeYear": 4659,
     "dailyMinutesDown": {
-      "2021-11-14": 9,
+      "2021-11-14": 34,
       "2021-11-13": 35,
       "2021-11-12": 148,
       "2021-11-11": 26,
@@ -116,7 +116,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 18,
+      "2021-11-14": 24,
       "2021-11-12": 147,
       "2021-11-11": 24,
       "2021-11-08": 27,
@@ -138,7 +138,7 @@
     "slug": "agro-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "7.79%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -148,6 +148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2021-11-14": 6,
       "2021-11-12": 149,
       "2021-11-08": 26,
       "2021-11-06": 51,
@@ -284,7 +285,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 477,
+      "2021-11-14": 509,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
       "2021-11-11": 1440,
@@ -328,7 +329,7 @@
     "slug": "comunicacion-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -338,7 +339,6 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 10,
       "2021-11-12": 120,
       "2021-11-11": 27,
       "2021-11-06": 18,
@@ -364,7 +364,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 477,
+      "2021-11-14": 509,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
       "2021-11-11": 1440,
@@ -418,7 +418,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 9,
+      "2021-11-14": 24,
       "2021-11-13": 38,
       "2021-11-12": 131,
       "2021-11-11": 26,
@@ -450,7 +450,6 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 9,
       "2021-11-13": 18,
       "2021-11-12": 131,
       "2021-11-11": 26,
@@ -482,7 +481,6 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 6,
       "2021-11-13": 18,
       "2021-11-12": 109,
       "2021-11-11": 26,
@@ -511,7 +509,6 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 5,
       "2021-11-13": 43,
       "2021-11-12": 108,
       "2021-11-11": 19,
@@ -541,7 +538,6 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 5,
       "2021-11-13": 18,
       "2021-11-12": 107,
       "2021-11-11": 19,
@@ -599,7 +595,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 21,
+      "2021-11-14": 17,
       "2021-11-13": 17,
       "2021-11-12": 112,
       "2021-11-08": 24,
@@ -627,7 +623,6 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 3,
       "2021-11-13": 17,
       "2021-11-12": 97,
       "2021-11-06": 19,
@@ -654,7 +649,6 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 3,
       "2021-11-13": 17,
       "2021-11-12": 96,
       "2021-10-31": 19,
@@ -680,7 +674,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 30,
+      "2021-11-14": 28,
       "2021-11-12": 119,
       "2021-11-06": 16,
       "2021-10-31": 18,
@@ -714,7 +708,7 @@
     "slug": "htc-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "22.95%",
+    "uptimeDay": "37.30%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -724,7 +718,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 2,
+      "2021-11-14": 3,
       "2021-11-12": 127,
       "2021-11-11": 16,
       "2021-11-06": 18,
@@ -768,7 +762,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 477,
+      "2021-11-14": 509,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
       "2021-11-11": 1440,
@@ -822,7 +816,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 27,
+      "2021-11-14": 28,
       "2021-11-13": 51,
       "2021-11-12": 126,
       "2021-11-11": 56,
@@ -855,7 +849,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 477,
+      "2021-11-14": 509,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
       "2021-11-11": 1440,
@@ -899,7 +893,7 @@
     "slug": "rpi-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -1023,7 +1017,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 477,
+      "2021-11-14": 509,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
       "2021-11-11": 476
@@ -1046,7 +1040,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 477,
+      "2021-11-14": 509,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
       "2021-11-11": 476
