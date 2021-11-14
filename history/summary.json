@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "98.46%",
     "uptimeDay": "97.59%",
-    "uptimeWeek": "97.22%",
+    "uptimeWeek": "97.32%",
     "uptimeMonth": "98.30%",
     "uptimeYear": "98.46%",
     "time": 4593,
     "timeDay": 3334,
-    "timeWeek": 4118,
+    "timeWeek": 3556,
     "timeMonth": 4840,
     "timeYear": 4593,
     "dailyMinutesDown": {
@@ -185,7 +185,7 @@
     "slug": "biofabrica-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -216,7 +216,7 @@
     "slug": "cea-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -245,7 +245,7 @@
     "slug": "ceambiental-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -283,7 +283,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 437,
+      "2021-11-14": 455,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
       "2021-11-11": 1440,
@@ -362,7 +362,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 437,
+      "2021-11-14": 455,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
       "2021-11-11": 1440,
@@ -757,7 +757,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 437,
+      "2021-11-14": 455,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
       "2021-11-11": 1440,
@@ -844,7 +844,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 437,
+      "2021-11-14": 455,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
       "2021-11-11": 1440,
@@ -1012,7 +1012,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 437,
+      "2021-11-14": 456,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
       "2021-11-11": 476
@@ -1035,7 +1035,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-14": 437,
+      "2021-11-14": 456,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
       "2021-11-11": 476
