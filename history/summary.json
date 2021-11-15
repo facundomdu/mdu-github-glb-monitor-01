@@ -5,18 +5,18 @@
     "icon": "https://misiones.gob.ar/favicon.ico",
     "slug": "misiones",
     "status": "up",
-    "uptime": "97.70%",
-    "uptimeDay": "70.71%",
-    "uptimeWeek": "93.22%",
-    "uptimeMonth": "97.22%",
-    "uptimeYear": "97.70%",
+    "uptime": "97.68%",
+    "uptimeDay": "70.06%",
+    "uptimeWeek": "93.13%",
+    "uptimeMonth": "97.19%",
+    "uptimeYear": "97.68%",
     "time": 4790,
     "timeDay": 7668,
     "timeWeek": 5075,
     "timeMonth": 5201,
     "timeYear": 4790,
     "dailyMinutesDown": {
-      "2021-11-15": 422,
+      "2021-11-15": 431,
       "2021-11-14": 54,
       "2021-11-13": 35,
       "2021-11-12": 148,
@@ -44,18 +44,18 @@
     "icon": "https://favicons.githubusercontent.com/marandu.com.ar",
     "slug": "marandu",
     "status": "up",
-    "uptime": "98.13%",
-    "uptimeDay": "70.81%",
-    "uptimeWeek": "94.37%",
-    "uptimeMonth": "97.64%",
-    "uptimeYear": "98.13%",
+    "uptime": "98.12%",
+    "uptimeDay": "70.16%",
+    "uptimeWeek": "94.28%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "98.12%",
     "time": 3316,
     "timeDay": 4639,
     "timeWeek": 3692,
     "timeMonth": 3847,
     "timeYear": 3316,
     "dailyMinutesDown": {
-      "2021-11-15": 420,
+      "2021-11-15": 430,
       "2021-11-12": 147,
       "2021-11-08": 28,
       "2021-11-07": 18,
@@ -184,7 +184,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-15": 44
+      "2021-11-15": 53
     }
   },
   {
@@ -295,7 +295,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-15": 825,
+      "2021-11-15": 834,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
@@ -375,7 +375,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-15": 825,
+      "2021-11-15": 834,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
@@ -718,7 +718,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-15": 43
+      "2021-11-15": 52
     }
   },
   {
@@ -764,7 +764,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-15": 42
+      "2021-11-15": 52
     }
   },
   {
@@ -784,7 +784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-15": 825,
+      "2021-11-15": 834,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
@@ -873,7 +873,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-15": 825,
+      "2021-11-15": 834,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
@@ -1047,7 +1047,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-15": 825,
+      "2021-11-15": 834,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
@@ -1071,7 +1071,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-15": 825,
+      "2021-11-15": 834,
       "2021-11-14": 1440,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
