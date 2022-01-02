@@ -264,7 +264,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-02": 20,
+      "2022-01-02": 26,
       "2021-12-29": 18,
       "2021-12-28": 28,
       "2021-12-27": 47,
@@ -300,7 +300,7 @@
     "slug": "cea-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "7.78%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -310,6 +310,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2022-01-02": 6,
       "2021-12-29": 18,
       "2021-12-27": 46,
       "2021-12-25": 17,
@@ -340,7 +341,7 @@
     "slug": "ceambiental-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "8.37%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -350,6 +351,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2022-01-02": 5,
       "2021-12-29": 17,
       "2021-12-27": 46,
       "2021-12-24": 76,
@@ -389,7 +391,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-02": 551,
+      "2022-01-02": 575,
       "2022-01-01": 1440,
       "2021-12-31": 1440,
       "2021-12-30": 1440,
@@ -528,7 +530,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-02": 552,
+      "2022-01-02": 575,
       "2022-01-01": 1440,
       "2021-12-31": 1440,
       "2021-12-30": 1440,
@@ -621,7 +623,7 @@
     "slug": "defensoriadennya-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "29.99%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -631,7 +633,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-02": 4,
+      "2022-01-02": 22,
       "2022-01-01": 40,
       "2021-12-29": 16,
       "2021-12-27": 51,
@@ -754,7 +756,7 @@
     "slug": "ecologia-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "29.40%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -764,6 +766,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2022-01-02": 4,
       "2022-01-01": 32,
       "2021-12-24": 19,
       "2021-12-23": 27,
@@ -794,7 +797,7 @@
     "slug": "edu-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "13.57%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -804,6 +807,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2022-01-02": 3,
       "2022-01-01": 15,
       "2021-12-25": 24,
       "2021-12-24": 19,
@@ -1100,7 +1104,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-02": 552,
+      "2022-01-02": 575,
       "2022-01-01": 1440,
       "2021-12-31": 1440,
       "2021-12-30": 1440,
@@ -1203,7 +1207,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-02": 21,
+      "2022-01-02": 43,
       "2022-01-01": 70,
       "2021-12-31": 22,
       "2021-12-29": 17,
@@ -1252,7 +1256,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-02": 552,
+      "2022-01-02": 575,
       "2022-01-01": 1440,
       "2021-12-31": 1440,
       "2021-12-30": 1440,
@@ -1523,7 +1527,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-02": 552,
+      "2022-01-02": 575,
       "2022-01-01": 1440,
       "2021-12-31": 1440,
       "2021-12-30": 1440,
@@ -1595,7 +1599,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-02": 552,
+      "2022-01-02": 575,
       "2022-01-01": 1440,
       "2021-12-31": 1440,
       "2021-12-30": 1440,
