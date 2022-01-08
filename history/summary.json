@@ -12,7 +12,7 @@
     "uptimeYear": "97.15%",
     "time": 5040,
     "timeDay": 0,
-    "timeWeek": 6771,
+    "timeWeek": 6931,
     "timeMonth": 5767,
     "timeYear": 5040,
     "dailyMinutesDown": {
@@ -163,7 +163,7 @@
     "slug": "agrifam-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "29.54%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -173,7 +173,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-08": 4,
+      "2022-01-08": 7,
       "2022-01-07": 15,
       "2022-01-06": 22,
       "2022-01-04": 22,
@@ -210,7 +210,7 @@
     "slug": "agro-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "14.13%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -220,7 +220,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-08": 3,
+      "2022-01-08": 6,
       "2022-01-06": 59,
       "2022-01-04": 44,
       "2022-01-03": 17,
@@ -278,7 +278,7 @@
     "slug": "biofabrica-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "16.80%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -288,7 +288,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-08": 3,
+      "2022-01-08": 7,
       "2022-01-07": 22,
       "2022-01-06": 52,
       "2022-01-04": 43,
@@ -427,7 +427,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-08": 593,
+      "2022-01-08": 601,
       "2022-01-07": 1440,
       "2022-01-06": 1440,
       "2022-01-05": 1440,
@@ -576,7 +576,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-08": 593,
+      "2022-01-08": 601,
       "2022-01-07": 1440,
       "2022-01-06": 1440,
       "2022-01-05": 1440,
@@ -1041,7 +1041,7 @@
     "slug": "gobierno-misiones-gob-ar",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "15.12%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -1051,6 +1051,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2022-01-08": 3,
       "2022-01-04": 16,
       "2021-12-31": 20,
       "2021-12-29": 20,
@@ -1174,7 +1175,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-08": 593,
+      "2022-01-08": 601,
       "2022-01-07": 1440,
       "2022-01-06": 1440,
       "2022-01-05": 1440,
@@ -1336,7 +1337,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-08": 593,
+      "2022-01-08": 602,
       "2022-01-07": 1440,
       "2022-01-06": 1440,
       "2022-01-05": 1440,
@@ -1617,7 +1618,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-08": 593,
+      "2022-01-08": 602,
       "2022-01-07": 1440,
       "2022-01-06": 1440,
       "2022-01-05": 1440,
@@ -1695,7 +1696,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-08": 593,
+      "2022-01-08": 602,
       "2022-01-07": 1440,
       "2022-01-06": 1440,
       "2022-01-05": 1440,
